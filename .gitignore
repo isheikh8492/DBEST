@@ -1,0 +1,8 @@
+*.pyc
+ic_13_eval
+.git
+__pycache__/
+venv/
+debug_images/
+weights/
+data/
