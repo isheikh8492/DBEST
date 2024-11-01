@@ -6,3 +6,4 @@ venv/
 debug_images/
 weights/
 data/
+ft_et_text_syntext4chars_100k.ckpt
